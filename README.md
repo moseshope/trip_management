@@ -12,11 +12,7 @@ The backend of online trip management where the admin can log in to the system a
 
 ## Authors
 
-- [Prayag Patel](https://github.com/prayagp8)
-- [Rajan Chauhan](https://github.com/rajanchauhan165)
-- [Ranjeet Kumar](https://github.com/ranjeetmasaischool)
-- [Abhishek Das](https://github.com/abhidas0810)
-- [Gautam Kumar](https://github.com/gautamprajapat8)
+- [Moseshope](https://github.com/moseshope)
 
 
 ## Admin Features
@@ -75,12 +71,3 @@ Start the server
  - http://localhost:8888/swagger-ui/#/
 
 ![Logo](https://i.postimg.cc/kM0tpJKd/p2.png)
-
-## Roles and Responsibilities
-- Project management done by [Prayag Patel](https://github.com/prayagp8).
-- Login, controller class management and overall bug fixes done by [Prayag Patel](https://github.com/prayagp8).
-- Admin, User and Customers related files and exceptions done by [Ranjeet Kumar](https://github.com/ranjeetmasaischool).
-- Booking and Package related files and exceptions done by [Rajan Chauhan](https://github.com/rajanchauhan165).
-- Feedback, Report and Hotel related files and exceptions done by [Abhishek Das](https://github.com/abhidas0810).
-- Bus, Route and Travel related files and exceptions done by [Gautam Kumar](https://github.com/gautamprajapat8).
-- Readme.md done by [Rajan Chauhan](https://github.com/rajanchauhan165).
