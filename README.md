@@ -53,7 +53,7 @@ The backend of online trip management where the admin can log in to the system a
 Clone the project
 
 ```bash
-  git clone https://github.com/prayagp8/kindhearted-afternoon-7542.git
+  git clone https://github.com/moseshope/trip_management.git
 ```
 
 Go to the project resources
